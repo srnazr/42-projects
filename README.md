@@ -21,7 +21,7 @@ All projects follow **42 Norm**, are written in **C** so far, and are developed/
 
 ---
 
-## 🛠️ Technologies & Tools
+## Tech & Tools
 - Language: **C**
 - Build system: **Makefile**
 - OS: **Linux**
