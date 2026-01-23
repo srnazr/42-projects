@@ -5,6 +5,8 @@ Each project focuses on low-level programming, problem-solving, algorithms, and 
 
 All projects follow **42 Norm**, are written in **C** so far, and are developed/tested in a **Linux environment**.
 
+*For a more detailed description of each project, please refer to the README files in their respective folders within this repository.*
+
 ---
 
 ## Project List
@@ -18,6 +20,9 @@ All projects follow **42 Norm**, are written in **C** so far, and are developed/
 ### Milestone 1
 - **ft_printf**  
   Custom implementation of the `printf` function, handling variadic arguments and multiple format specifiers.
+
+- **get_next_line**
+  A function that incrementally reads from a file descriptor using a persistent buffer, reconstructs full lines across multiple reads, and safely manages memory until EOF.
 
 ---
 
