@@ -21,7 +21,7 @@ All projects follow **42 Norm**, are written in **C** so far, and are developed/
 - **ft_printf**  
   Custom implementation of the `printf` function, handling variadic arguments and multiple format specifiers.
 
-- **get_next_line**
+- **get_next_line** <br>
   A function that incrementally reads from a file descriptor using a persistent buffer, reconstructs full lines across multiple reads, and safely manages memory until EOF.
 
 ---
