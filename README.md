@@ -24,6 +24,9 @@ All projects follow **42 Norm**, are written in **C** so far, and are developed/
 - **get_next_line** <br>
   A function that incrementally reads from a file descriptor using a persistent buffer, reconstructs full lines across multiple reads, and safely manages memory until EOF.
 
+- **push_swap** <br>
+  A constrained sorting project that explores algorithmic optimization using two stacks, a limited set of operations and sorting algorithms with different complexities.
+  It implements multiple strategies (radix sort, bucket-based approaches, and adaptive selection via disorder metrics) to minimize operation count and analyze time complexity.
 ---
 
 ## Tech & Tools
